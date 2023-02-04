@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ This\ class\ creates\ trees\ objects\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 5/1/21\r\n
+comment1.params=name\ tall
+comment1.target=Tree(java.lang.String,\ double)
+comment1.text=\r\n\ contructor\ to\ make\ trees\r\n\ \r\n\ @param\ name\ provides\ a\ given\ type\ of\ tree\r\n\ @param\ tall\ provides\ a\ given\ height\ of\ tree\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ get\ type\ of\ tree\r\n\ \r\n\ @return\ type\ of\ tree\r\n
+comment3.params=
+comment3.target=java.lang.Double\ getHeight()
+comment3.text=\r\n\ get\ height\ of\ tree\r\n\ \r\n\ @return\ height\ of\ tree\r\n
+comment4.params=newType
+comment4.target=void\ setType(java.lang.String)
+comment4.text=\r\n\ set\ new\ type\ of\ tree\r\n\ \r\n\ @param\ newType\ is\ a\ type\ to\ replace\ the\ previous\r\n
+comment5.params=newHeight
+comment5.target=void\ setHeight(double)
+comment5.text=\r\n\ set\ new\ height\ of\ tree\r\n\ \r\n\ @param\ newHeight\ is\ a\ height\ to\ replace\ the\ previous\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ print\ out\ in\ formatted\ form\r\n
+numComments=7

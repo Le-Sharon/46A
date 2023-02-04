@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StaticPractice
+comment0.text=\r\n\ a\ utility\ class\ StaticPractice\ with\ several\ \r\n\ static\ methods\ to\ work\ with\ arrays\ and\ arraylists.\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 5/1/21\r\n
+comment1.params=numbers\ size
+comment1.target=double\ averageOfPositive(int[],\ int)
+comment1.text=\r\n\ Gets\ the\ average\ value\ of\ all\ positive\ elements\ in\ the\ array.\ \r\n\ The\ array\ has\ size\ values,\ and,\ if\ the\ array\ has\ no\ positive\ elements,\r\n\ returns\ 0.\r\n\ \r\n\ @param\ numbers\ given\ array\ of\ integers\r\n\ @param\ size\ given\ size\ of\ the\ wanted\ average\r\n\ \r\n\ @return\ average\ of\ all\ number\ in\ array.\ zeros\ if\ found\ no\ positives\ int.\r\n
+comment2.params=numbers
+comment2.target=double\ averageOfPositive(java.util.ArrayList)
+comment2.text=\r\n\ Gets\ the\ averagevalue\ of\ all\ positive\ elements\ in\ the\ array\ list.\ \r\n\ If\ the\ array\ listhas\ no\ positive\ elements,\ returns\ 0.\ \r\n\ \r\n\ @param\ numbers\ given\ list\ of\ numbers\r\n\ \r\n\ @return\ average\ of\ all\ number\ in\ arraylist.\ zeros\ if\ found\ no\ positives\ int.\r\n
+comment3.params=list\ size\ target
+comment3.target=int\ count(java.lang.String[],\ int,\ java.lang.String)
+comment3.text=\r\n\ Gets\ the\ count\ of\ occurrences\ of\ target\ in\ the\ array.\ The\ array\ has\ size\ values.\r\n\ \r\n\ @param\ list\ given\ list\ of\ strings\ arrays\r\n\ @param\ size\ given\ size\ of\ the\ wanted\ range\ of\ strings\r\n\ @param\ target\ given\ targetted\ words\ to\ find\r\n\ \r\n\ @return\ count\ of\ targetted\ words\ in\ arrays.\ zeros\ if\ found\ none.\r\n
+comment4.params=list\ target
+comment4.target=int\ count(java.util.ArrayList,\ java.lang.String)
+comment4.text=\r\n\ Gets\ the\ count\ of\ occurrences\ of\ target\ in\ the\ array\ list.\r\n\ You\ should\ use\ the\ enhanced\ for\ loop.\r\n\ \r\n\ @param\ list\ given\ list\ to\ find\r\n\ @param\ target\ given\ targetted\ words\ to\ find\r\n\ \r\n\ @return\ count\ of\ targetted\ words\ in\ list.\ zeros\ if\ found\ none.\r\n
+numComments=5
