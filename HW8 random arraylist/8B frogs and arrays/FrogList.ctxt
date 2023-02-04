@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FrogList
+comment0.text=\r\n\ ArrayList\ class\ for\ class\ Frog\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 4/10/21\r\n
+comment1.params=
+comment1.target=FrogList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FrogList\r\n\ make\ new\ ArrayList\ frog\r\n
+comment2.params=froggi
+comment2.target=void\ add(Frog)
+comment2.text=\r\n\ Add\ a\ frog\ at\ the\ beginning\ of\ the\ list.\r\n\r\n\ @param\ froggi\ is\ the\ inputted\ frog\r\n
+comment3.params=index
+comment3.target=Frog\ get(int)
+comment3.text=\r\n\ return\ frog\ at\ specific\ index.\r\n\r\n\ @param\ index\ is\ the\ wanted\ index\r\n\ @return\ wanted\ frog\ at\ index\r\n
+comment4.params=lowLimit\ highLimit
+comment4.target=int\ countInRange(int,\ int)
+comment4.text=\r\n\ Gets\ the\ number\ of\ frogs\ in\ the\ list\ that\ have\ a\ weight\ in\ the\ range\ between\ lowLimitand\ highLimit\r\n\ ,\ inclusive.\r\n\r\n\ @param\ lowLimit\ low\ cap\r\n\ @param\ highLimit\ high\ cap\r\n\ @return\ how\ many\ frogs\ that\ fit\ in\ the\ limit\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ thestring\ returned\ from\ calling\ the\ toString()\r\n\ method\ on\ the\ list.\r\n\r\n\ @return\ wanted\ frog\ at\ index\r\n
+numComments=6

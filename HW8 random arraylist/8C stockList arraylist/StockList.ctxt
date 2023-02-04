@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StockList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StockList\ here.\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 4/10/21\r\n
+comment1.params=
+comment1.target=StockList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StockList\r\n
+comment2.params=s
+comment2.target=void\ add(Stock)
+comment2.text=\r\n\ Adds\ a\ stock\ s\ to\ the\ end\ of\ the\ list.\r\n\r\n\ @param\ s\ is\ added\ to\ the\ end\ of\ list\r\n\ \r\n
+comment3.params=index1\ index2
+comment3.target=void\ swap(int,\ int)
+comment3.text=\r\n\ Swaps\ the\ element\ at\ index1\ with\ the\ element\ at\ index2.\r\n\ If\ either\ index\ is\ out\ of\ bounds,\ do\ not\ changing\ anything.\r\n\r\n\ @param\ s\ is\ added\ to\ the\ end\ of\ list\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ cheapest()
+comment4.text=\r\n\ Gets\ the\ symbol\ for\ the\ Stock\ with\ the\ lowest\ price\ per\ share.\ \r\n\ If\ more\ than\ one\ Stock\ has\ the\ same\ price,\ return\ the\ symbol\ for\ the\ first.\ \r\n\ If\ the\ listis\ empty,\ return\ the\ empty\ string.\r\n\r\n\ \r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Adds\ a\ stock\ s\ to\ the\ end\ of\ the\ list.\r\n\r\n\ @param\ s\ is\ added\ to\ the\ end\ of\ list\r\n\ \r\n
+numComments=6
