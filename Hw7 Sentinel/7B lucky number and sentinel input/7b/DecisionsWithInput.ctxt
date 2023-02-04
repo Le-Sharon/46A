@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DecisionsWithInput
+comment0.text=\r\n\ Get\ a\ series\ of\ number\ and\ check\ if\ it's\ a\ lucky\ number\ until\ a\ sentinel\r\n\ is\ inputted,\ then\ find\ sums,\ smallest\ numbers\ and\ total\ occurances\ of\ 5's\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 3/20/21\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

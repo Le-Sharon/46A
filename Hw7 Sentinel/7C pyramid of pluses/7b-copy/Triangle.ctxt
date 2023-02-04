@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ this\ class\ draw\ an\ isosceles\ triangle\ with\ given\ number\ of\ value\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 3/29/21\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
