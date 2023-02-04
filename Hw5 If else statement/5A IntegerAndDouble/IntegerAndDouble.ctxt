@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IntegerAndDouble
+comment0.text=\r\n\ Scan\ for\ correct\ inputs\ and\ use\ inputs\ number\ to\ calculate\ using\ Math\ class\ methods\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 3/2/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

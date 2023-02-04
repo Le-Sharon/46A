@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DatingCreepy1
+comment0.text=\r\n\ This\ class\ checks\ to\ see\ if\ you\ are\ dating\ someone\ underage.\ If\ so,\ the\ FBI\ is\ coming\ for\ u.\r\n\r\n\ @name\:\ Alex\ Chan\r\n\ @version\:\ 2021/02/25\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

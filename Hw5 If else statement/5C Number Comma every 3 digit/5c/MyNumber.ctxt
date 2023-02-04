@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyNumber
+comment0.text=\r\n\ get\ value\ and\ determines\ if\ it's\ negative\ and\ add\ comma\ every\ 3\ digits\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 3/2/2021\r\n
+comment1.params=value
+comment1.target=MyNumber(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ myNumber\r\n\ stores\ given\ values\ within\ instance\ variable\ x\r\n\ \r\n\ @param\ value\ get\ given\ value\r\n
+comment2.params=
+comment2.target=int\ getNumber()
+comment2.text=\r\n\ get\ x\ and\ returns\ integer\r\n\ \r\n\ @return\ get\ value\ and\ return\ it\r\n
+comment3.params=value
+comment3.target=void\ setNumber(int)
+comment3.text=\r\n\ changes\ the\ value\ of\ the\ given\ number\ if\ it's\ negative\r\n\ \r\n\ @param\ value\ the\ given\ value\r\n
+comment4.params=
+comment4.target=int\ digitCount()
+comment4.text=\r\n\ counts\ the\ amount\ of\ digits/length\ within\ the\ given\ value\r\n\ \r\n\ @return\ number\ of\ digits\r\n
+comment5.params=
+comment5.target=java.lang.String\ formatWithComma()
+comment5.text=\r\n\ format\ the\ given\ value\ with\ commas\ every\ 3\ digits\r\n\ \r\n\ @return\ "too\ big"\ if\ the\ number\ exceeds\ the\ limit,\ otherwise\ return\ \r\n\ number\ in\ comma\ formatting.\r\n
+numComments=6
