@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DayProg
+comment0.text=\r\n\ Using\ the\ Day\ class,\ this\ main\ class\ stores\ today\ dates\ and\ compute\ days\ gap\ between\r\n\ specific\ dates\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\ 2/9/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
