@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InterfaceRunner
+comment0.text=\r\n\ The\ Java\ tester\ program\ for\ interface\ HasArea.\r\n\r\n\ Step\ 1\:\ Enter\ your\ name\ and\ a\ date\r\n\ @author\ \ Qi\ Yang\r\n\ @version\ 2021-01-02\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

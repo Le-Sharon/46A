@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ The\ Java\ class\ models\ circle\ objects.\r\n\ \r\n\ Step\ 1\:\ Enter\ your\ name\ and\ a\ date\r\n\ @author\:\ Sharon\ Le\ \ \r\n\ @version\:\ 5/6/21\ \r\n
+comment1.params=radius
+comment1.target=Circle(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle.\r\n\ \r\n\ @param\ radius\ the\ radius\ of\ this\ Circle\ object\r\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\r\n\ Gets\ the\ radius\ of\ this\ circle.\r\n\ \r\n\ @return\ the\ radius\ of\ this\ circle\r\n
+comment3.params=newRadius
+comment3.target=void\ setRadius(int)
+comment3.text=\r\n\ Sets\ the\ radius\ of\ this\ circle.\r\n\ \r\n\ @param\ newRadius\ the\ new\ radius\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Gets\ a\ string\ representation\ for\ this\ circle.\r\n\ \r\n\ @return\ a\ string\ for\ this\ circle\ in\ the\ format\r\n\ \ \ \ \ \ \ \ \ Circle[Radius\=12.45]\r\n
+comment5.params=
+comment5.target=double\ area()
+comment5.text=\r\n\ get\ the\ area\ of\ the\ circle\r\n\ \r\n\ @return\ area\ of\ circle\r\n
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Orchard
+comment0.text=\r\n\ The\ Orchard\ class\ uses\ an\ ArrayList\ to\ keep\ track\ of\ Tree\r\n\ objects\ and\ has\ a\ constructor\ that\ takes\ no\ parameters\ \r\n\ and\ initializes\ the\ instance\ variable\ to\ an\ empty\ array\ list\ of\ Tree.\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 5/8/21\r\n
+comment1.params=length
+comment1.target=Orchard(int)
+comment1.text=\r\n\ constructor\ that\ takes\ no\ parameters\ and\ initializes\ the\ instance\ \r\n\ variable\ to\ an\ empty\ array\ list\ of\ Tree.\r\n
+comment2.params=newTrees\ pos
+comment2.target=void\ add(Tree,\ int)
+comment2.text=\r\n\ add\ a\ tree\ at\ a\ given\ position\ of\ the\ array\ list\ if\ the\ index\ is\ valid.\r\n\ It\ does\ not\ do\ anything\ if\ the\ index\ is\ out\ of\ the\ range.\r\n\ \r\n\ @param\ newTrees\ given\ trees\ to\ add\r\n\ @param\ pos\ the\ given\ position\ to\ add\r\n
+comment3.params=
+comment3.target=Tree\ lastTallTree()
+comment3.text=\r\n\ calculates\ and\ return\ the\ first\ tallest\ tree.\ But\ null\ if\ the\ arrayList\ is\ empty\r\n\ \r\n\ @return\ the\ first\ tallest\ tree\r\n
+comment4.params=thisTree
+comment4.target=boolean\ contains(java.lang.String)
+comment4.text=\r\n\ to\ determine\ if\ the\ array\ list\ contains\ a\ Tree\ object\ of\ a\ given\ type.\r\n\ It\ returns\ either\ true\ or\ false.\r\n\ \r\n\ @param\ thisTree\ is\ a\ lost\ tree\ that\ need\ to\ be\ found\r\n\ @return\ a\ boolean\ if\ the\ tree\ is\ found\ in\ list\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ treeList()
+comment5.text=\r\n\ return\ an\ ArrayList<String>\ containing\ the\ types\ of\ all\ the\ Tree\ objects\r\n\ in\ the\ array\ list.\r\n\ \r\n\ @return\ types\ of\ trees\ in\ formatted\ form\r\n
+comment6.params=
+comment6.target=void\ sort()
+comment6.text=\r\n\ sort\ the\ array\ based\ on\ interface\ Comparable\r\n\ \r\n
+numComments=7
