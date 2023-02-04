@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringApplication
+comment0.text=\r\n\ Scan\ for\ book\ title\ and\ uses\ substrings\ for\ get\ first\ word,letter\r\n\ of\ the\ book\ title\ and\ etc...\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 2/18/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

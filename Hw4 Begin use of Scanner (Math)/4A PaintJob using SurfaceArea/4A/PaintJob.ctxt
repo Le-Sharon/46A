@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PaintJob
+comment0.text=\r\n\ Receives\ the\ given\ length\ and\ width\ to\ calculate\ the\ paint\ job\ total\ cost\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 2/23/2021\r\n
+comment1.params=theLength\ theWidth
+comment1.target=PaintJob(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PaintJob\r\n\ @param\ theLength\ gets\ the\ given\ length\r\n\ @param\ theWidth\ gets\ the\ given\ width\r\n
+comment2.params=
+comment2.target=double\ getLength()
+comment2.text=\r\n\ gets\ length\ of\ room\r\n\ @return\ length\ of\ room\r\n
+comment3.params=
+comment3.target=double\ getWidth()
+comment3.text=\r\n\ gets\ floor\ width\ of\ room\r\n\ @return\ width\ of\ room\r\n
+comment4.params=newLength\ newWidth
+comment4.target=void\ setDimensions(double,\ double)
+comment4.text=\r\n\ reset\ original\ length\ and\ width\ to\ a\ new\ value\r\n\ \r\n\ @param\ newLength\ gets\ a\ new\ value\ for\ length\r\n\ @param\ newWidth\ gets\ a\ new\ value\ for\ width\r\n
+comment5.params=
+comment5.target=double\ surfaceArea()
+comment5.text=\r\n\ calculate\ the\ surface\ area\ of\ 4\ walls\ and\ ceiling\r\n\ @return\ calculated\ surface\ area\ minus\ the\ door\ and\ window\r\n
+comment6.params=
+comment6.target=double\ costOfPaint()
+comment6.text=\r\n\ Calculate\ the\ cost\ of\ painting\ the\ walls\r\n\ @return\ the\ cost\ of\ painting\ all\ 4\ walls\ and\ ceiling\r\n
+comment7.params=
+comment7.target=double\ totalJobCost()
+comment7.text=\r\n\ add\ up\ the\ total\ cost\ of\ the\ job\ of\ labor\ cost\ and\ cost\ of\ materials\r\n\ @return\ total\ cost\ of\ job\ including\ labor\ cost\r\n
+numComments=8
