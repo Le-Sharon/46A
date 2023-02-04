@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SunFlowers
+comment0.text=\r\n\ Display\ the\ image\ and\ resize\ the\ image\ to\ the\ desired\ scale.\r\n\r\n\ @Sharon\ Le\r\n\ @1/29/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
