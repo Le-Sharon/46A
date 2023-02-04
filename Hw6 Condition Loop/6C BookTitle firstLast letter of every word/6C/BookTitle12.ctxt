@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BookTitle12
+comment0.text=\r\n\ get\ every\ first/last\ letters\ of\ every\ word\ in\ a\ string\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 3/6/2021\r\n
+comment1.params=bookTitle
+comment1.target=BookTitle12(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BookTitle\r\n
+comment2.params=
+comment2.target=java.lang.String\ firstLetters()
+comment2.text=\r\n\ This\ method\ counting\ words\ individually\r\n\ Then,\ takes\ the\ first\ character\ and\ store\ it\ in\ each\ continuously\ until\ the\r\n\ last\ word\ of\ string.and\ return\ it.\r\n\r\n\ \r\n\ @return\ a\ string\ consisting\ of\ every\ first\ letter\ of\ every\ word\ in\ the\ title\r\n
+comment3.params=str
+comment3.target=char\ lastLetter(java.lang.String)
+comment3.text=\r\n\ detects\ the\ last\ letter\ of\ the\ string\ is\ a\ letter\ or\ not\r\n\ \r\n\ @return\ the\ last\ letters\ of\ a\ string\ skips\ to\ second\ to\ last\ if\ not\ a\ letter\r\n
+comment4.params=
+comment4.target=java.lang.String\ lastLetters()
+comment4.text=\r\n\ This\ method\ count\ each\ words\ then\ takes\ the\ last\ character\ of\ each\ words\r\n\ and\ stores\ it\ in\ a\ string\ continuously.\ If\ the\ last\ words\ is\ not\ a\ letter\r\n\ it\ would\ take\ the\ second\ to\ last\ instead.\r\n\ \r\n\ @return\ last\ characters\ of\ every\ words\ in\ the\ string\r\n
+numComments=5

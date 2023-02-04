@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LoopyFun
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LoppyFun\ here.\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 3/6/2021\r\n
+comment1.params=num
+comment1.target=LoopyFun(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LoppyFun\r\n\ \r\n\ @param\ num\ given\ value\r\n
+comment2.params=
+comment2.target=int\ getNum()
+comment2.text=\r\n\ gets\ stored\ number\r\n\ \r\n\ @return\ stored\ number\r\n
+comment3.params=
+comment3.target=int\ factorial()
+comment3.text=\r\n\ calculates\ the\ factorial\ of\ the\ given\ number\r\n\ \r\n\ @return\ factorial\ of\ number\r\n
+comment4.params=
+comment4.target=int\ sumOfPowersOfTwo()
+comment4.text=\r\n\ calculates\ the\ twos\ with\ the\ exponents\ of\ the\ factor\ of\ given\ values\r\n\ \r\n\ @return\ all\ sum\ of\ twos\ with\ the\ exponents\ of\ factor\ of\ given\ number\r\n
+numComments=5
