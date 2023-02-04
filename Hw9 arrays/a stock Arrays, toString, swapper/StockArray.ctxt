@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StockArray
+comment0.text=\r\n\ this\ class\ provides\ array\ methods\ for\ stock\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 4/16/2021\r\n
+comment1.params=length
+comment1.target=StockArray(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StockArray\r\n\ \r\n\ @param\ length\ given\ length\ of\ array\r\n
+comment2.params=stock1\ index
+comment2.target=void\ insert(Stock,\ int)
+comment2.text=\r\n\ Adds\ the\ stockat\ the\ specified\ index\ position\ and\ maintain\ the\ order\ of\ all\ elements\ in\ the\ array\r\n\ and\ updates\ numOfStocks\ if\ the\ array\ is\ not\ full\ and\ the\ index\ is\ valid.\ \r\n\ Otherwise,\ the\ method\ does\ nothing.\r\n\r\n\ @param\ stock1\ given\ stock\ to\ insert\r\n\ @param\ index\ given\ index\ to\ insert\ stock1\r\n
+comment3.params=index1\ index2
+comment3.target=void\ swap(int,\ int)
+comment3.text=\r\n\ Swaps\ the\ stock\ at\ index1\ with\ the\ stock\ at\ index2.\ If\ either\ index\ is\ out\ of\ bounds,\ does\ not\ changeanything.\r\n\r\n\ @param\ index1\ to\ swap\r\n\ @param\ index2\ to\ swap\r\n
+comment4.params=symbol
+comment4.target=double\ quote(java.lang.String)
+comment4.text=\r\n\ Gets\ the\ price\ for\ the\ stock\ in\ the\ array\ specified\ by\ the\ parameter\ symbol.If\ the\ stock\ is\ not\ in\ the\ array,\ returns\ -1.\ \r\n\r\n\ @param\ symbol\ given\ symbol\ to\ find\ price\r\n\ @return\ price\ of\ symbol\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ string\ containing\ all\ stocks\ in\ the\ array\ in\ the\ format\ [Stock[...],\ \r\n\ Stock[...],\ .\ .\ .\ Stock[...]],\ where\ each\ item\ Stock[...]\ is\ the\ string\ from\ the\ toString()\r\n\ method\ of\ class\ Stockfor\ a\ stockin\ the\ array.\r\n\r\n\ @return\ stock\ in\ formatted\ string\r\n\ \r\n
+numComments=6

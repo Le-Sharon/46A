@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IntArray
+comment0.text=\r\n\ class\ to\ process\ an\ integer\ array.\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 4/16/2021\r\n
+comment1.params=given\ howMany
+comment1.target=IntArray(int[],\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IntArray\r\n\ \r\n\ @param\ given\ array\ length\ and\ elements\ in\ array\r\n\ @param\ howMany\ count\ of\ filled\ elements\r\n
+comment2.params=value
+comment2.target=void\ add(int)
+comment2.text=\r\n\ Adds\ value\ to\ the\ end\ of\ the\ arrayif\ the\ array\ is\ not\ full\r\n\ and\ does\ nothing\ otherwise.\r\n\r\n\ @param\ value\ given\ value\ to\ add\ to\ list\r\n\ \r\n
+comment3.params=index
+comment3.target=void\ remove(int)
+comment3.text=\r\n\ Removes\ the\ value\ at\ the\ specified\ index\ position\ from\ the\ array\r\n\ and\ shifts\ any\ subsequent\ elements\ to\ the\ left\ \r\n\ (subtracts\ one\ from\ their\ indices)if\ the\ index\ is\ valid.\ \r\n\ The\ method\ does\ nothing\ if\ the\ index\ is\ invalid.\r\n\r\n\ @param\ index\ to\ be\ removed\ if\ valid\r\n\ \r\n
+comment4.params=low\ high
+comment4.target=int\ countOfOutRange(int,\ int)
+comment4.text=\r\n\ gets\ the\ count\ of\ the\ array\ elements\ that\ are\ not\ in\ the\ specified\ \r\n\ range[low,\ high].\r\n\r\n\ @param\ low\ low\ cap\r\n\ @param\ high\ high\ cap\r\n\ @return\ count\ of\ out\ of\ ranges\r\n\ \r\n
+comment5.params=
+comment5.target=int\ lastNegative()
+comment5.text=\r\n\ Returns\ the\ last\ negative\ value\ in\ the\ array\ and\ 0\ if\ no\ negative\ values\r\n\ in\ the\ array.\r\n\r\n\ @return\ the\ last\ negative\ in\ list\r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ a\ string\ listing\ all\ values\ in\ the\ array\ separated\ by\ a\ comma\ \r\n\ and\ a\ space\ and\ enclosed\ in\ a\ pair\ of\ "["\ and\ "]".For\ example,\ \r\n\ [3,\ 56,\ 23,\ -2].\r\n\r\n\ @return\ the\ last\ negative\ in\ list\r\n\ \r\n
+numComments=7

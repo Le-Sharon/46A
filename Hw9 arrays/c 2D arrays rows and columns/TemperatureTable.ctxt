@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TemperatureTable
+comment0.text=\r\n\ This\ class\ manage\ a\ 2-D\ array\ of\ integers\ representing\ temperature\ tables.\ \r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 4/16/21\r\n
+comment1.params=num
+comment1.target=TemperatureTable(int[][])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TemperatureTable\r\n\ \r\n\ @param\ num\ given\ 2D\ array\r\n
+comment2.params=colIndex
+comment2.target=double\ columnAverage(int)
+comment2.text=\r\n\ Gets\ the\ average\ of\ the\ specified\ column.\r\n\r\n\ @param\ \ colIndex\ collum\ with\ indexs\r\n\ @return\ the\ average\ of\ the\ specific\ collumn\r\n
+comment3.params=rowIndex
+comment3.target=int\ rowMax(int)
+comment3.text=\r\n\ Gets\ the\ largest\ value\ of\ the\ specified\ row.\r\n\r\n\ @param\ \ rowIndex\ collum\ with\ indexs\r\n\ @return\ largest\ number\ in\ row\r\n
+comment4.params=limit
+comment4.target=int\ largerValueInMaxRowMinColumn(int)
+comment4.text=\r\n\ Gets\ the\ value\ that\ is\ larger\ than\ the\ specified\ limit,\ has\ the\ max\ \r\n\ row\ index\ among\ all\ values\ larger\ than\ the\ specified\ limit,\ and\ has\ \r\n\ the\ smallest\ column\ index\ among\ all\ such\ values\ in\ the\ row.Returns\ \r\n\ the\ limit\ if\ no\ values\ in\ the\ 2-D\ array\ is\ larger\ than\ the\ limit.\r\n\r\n\ @param\ \ limit\ cap\r\n\ @return\ largest\ number\ above\ cap\r\n
+numComments=5

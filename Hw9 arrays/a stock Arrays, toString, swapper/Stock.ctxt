@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ Models\ stock\ objects\ managed\ by\ a\ financial\ company.\r\n\ \r\n\ @author\ \ Qi\ Yang\r\n\ @version\ 2021-04-07\r\n
+comment1.params=theSymbol\ thePrice
+comment1.target=Stock(java.lang.String,\ double)
+comment1.text=\r\n\ Constructs\ a\ Stock\ object\ with\ the\ given\ symbol\ and\ price.\r\n\ \r\n\ @param\ theSymbol\ this\ stock's\ symbol\r\n\ @param\ the\ Price\ this\ stock's\ price\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ Gets\ the\ price\ of\ this\ stock.\r\n\ \r\n\ @return\ the\ current\ price\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSymbol()
+comment3.text=\r\n\ Gets\ the\ symbol\ for\ this\ stock.\r\n\ \r\n\ @return\ the\ symbol\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ representing\ this\ stock.\r\n\ \r\n\ @return\ a\ string\ in\ the\ format\r\n\ \ \ \ \ \ \ \ \ Stock[symbol\=AAPL,price\=134.87]\r\n
+numComments=5
