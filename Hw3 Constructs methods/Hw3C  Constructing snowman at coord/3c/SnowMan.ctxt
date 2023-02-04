@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SnowMan
+comment0.text=\r\n\ Constructing\ method\ that\ helps\ draw\ multiple\ snowman\ at\ different\ coordinates\ \r\n\ at\ the\ same\ time.\r\n\r\n\ @author\:\ Sharon\ Le\r\n\ @version\:\ 2/11/2021\r\n
+comment1.params=upperLeftX\ upperLeftY
+comment1.target=SnowMan(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SnowMan\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\r\n\ Draw\ the\ Snowman\r\n
+numComments=3

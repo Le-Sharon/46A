@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SnowmanProg
+comment0.text=\r\n\ Draws\ four\ snowman\ objects\ of\ the\ same\ size\r\n\ at\ different\ locations.\r\n\r\n\ @author\ Qi\ Yang\r\n\ @version\ 2020-12-19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

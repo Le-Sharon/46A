@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Climber
+comment0.text=\r\n\ Models\ a\ child\ climbing\ a\ pole.\r\n\ \r\n\ @author\:Sharon\ Le\r\n\ @version\:2/16/2021\r\n
+comment1.params=theName\ thePosition
+comment1.target=Climber(java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ climber\ with\ the\ given\ name\ and\ position.\ \r\n\ \r\n\ @param\ theName\ the\ name\ of\ this\ climber\r\n\ @param\ thePosition\ the\ starting\ potition\ on\ the\ pole\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\ of\ this\ climber.\r\n\ \r\n\ @return\ the\ name\ of\ this\ climber\r\n
+comment3.params=
+comment3.target=int\ getPosition()
+comment3.text=\r\n\ Gets\ the\ position\ on\ the\ pole\ of\ this\ climber.\r\n\ \r\n\ @return\ the\ position\ on\ the\ pole\ of\ this\ climber\r\n
+comment4.params=newName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ new\ name\ for\ this\ climber.\r\n\ \r\n\ @param\ newName\ the\ new\ name\ for\ this\ climber\r\n
+comment5.params=
+comment5.target=void\ climb()
+comment5.text=\r\n\ Climbs\ one\ unit\ on\ the\ pole.\r\n
+comment6.params=
+comment6.target=void\ slide()
+comment6.text=\r\n\ Sets\ this\ climber\ to\ the\ bottom\ of\ the\ pole.\r\n
+numComments=7
